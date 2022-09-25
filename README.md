@@ -23,7 +23,7 @@ HTML, CSS
 
 ## Demo
 
-https://barbaros163.github.io/20.08.2022_Teamwork_project3/
+target="_blank" https://barbaros163.github.io/20.08.2022_Teamwork_project3/
 ## Feedback
 
 If you have any feedback, please reach out to me at barbaros1675@gmail.com
