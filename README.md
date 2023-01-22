@@ -23,7 +23,7 @@ HTML, CSS
 
 ## Demo
 
-https://barbaros163.github.io/20.08.2022_Teamwork_project3/
+https://barbaros163.github.io/20.08.2022_parallax_website/
 
 ## Feedback
 
